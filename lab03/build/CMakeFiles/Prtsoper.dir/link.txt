@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Prtsoper.dir/main.cpp.o CMakeFiles/Prtsoper.dir/src/PairStatistics.cpp.o CMakeFiles/Prtsoper.dir/src/Statistics.cpp.o -o Prtsoper 

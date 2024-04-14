@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Product.h
+iostream
+-
+
+../include/Shop.h
+vector
+-
+Product.h
+../include/Product.h
+
+/home/stud2022/2jozwiak/SEM4/PO/proj01/main.cpp
+iostream
+-
+Product.h
+/home/stud2022/2jozwiak/SEM4/PO/proj01/Product.h
+Shop.h
+/home/stud2022/2jozwiak/SEM4/PO/proj01/Shop.h
+
