@@ -1,3 +1,0 @@
-/home/stud2022/2jozwiak/SEM4/PO/lab06/build/CMakeFiles/Inh.dir
-/home/stud2022/2jozwiak/SEM4/PO/lab06/build/CMakeFiles/edit_cache.dir
-/home/stud2022/2jozwiak/SEM4/PO/lab06/build/CMakeFiles/rebuild_cache.dir

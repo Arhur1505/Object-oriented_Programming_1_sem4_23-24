@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/Minh.dir/main.cpp.o CMakeFiles/Minh.dir/src/Application.cpp.o CMakeFiles/Minh.dir/src/Window.cpp.o CMakeFiles/Minh.dir/src/WindowApplication.cpp.o -o Minh 
