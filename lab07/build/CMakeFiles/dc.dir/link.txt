@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/dc.dir/main.cpp.o CMakeFiles/dc.dir/src/Event.cpp.o CMakeFiles/dc.dir/src/Event1.cpp.o CMakeFiles/dc.dir/src/Event2.cpp.o CMakeFiles/dc.dir/src/MyObserver1.cpp.o CMakeFiles/dc.dir/src/MyObserver2.cpp.o CMakeFiles/dc.dir/src/MySubject.cpp.o CMakeFiles/dc.dir/src/Observer.cpp.o CMakeFiles/dc.dir/src/Subject.cpp.o -o dc 
