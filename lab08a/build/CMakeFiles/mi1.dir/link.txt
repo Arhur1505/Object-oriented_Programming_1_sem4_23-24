@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/mi1.dir/main.cpp.o CMakeFiles/mi1.dir/src/Window.cpp.o CMakeFiles/mi1.dir/src/WindowWithFrame.cpp.o CMakeFiles/mi1.dir/src/WindowWithFrameAndMenu.cpp.o CMakeFiles/mi1.dir/src/WindowWithMenu.cpp.o -o mi1 

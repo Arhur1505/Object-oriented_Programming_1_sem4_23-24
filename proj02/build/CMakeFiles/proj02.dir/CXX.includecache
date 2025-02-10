@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Component.h
+string
+-
+
+../include/Compressor.h
+Component.h
+../include/Component.h
+
+/home/stud2022/2jozwiak/SEM4/PO/proj02/src/Compressor.cpp
+Compressor.h
+/home/stud2022/2jozwiak/SEM4/PO/proj02/src/Compressor.h
+

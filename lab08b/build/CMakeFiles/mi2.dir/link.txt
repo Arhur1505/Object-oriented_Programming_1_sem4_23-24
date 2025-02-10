@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/mi2.dir/main.cpp.o -o mi2 

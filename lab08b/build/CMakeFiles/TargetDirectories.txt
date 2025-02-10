@@ -1,0 +1,3 @@
+/home/stud2022/2jozwiak/SEM4/PO/lab08/lab08b/build/CMakeFiles/mi2.dir
+/home/stud2022/2jozwiak/SEM4/PO/lab08/lab08b/build/CMakeFiles/edit_cache.dir
+/home/stud2022/2jozwiak/SEM4/PO/lab08/lab08b/build/CMakeFiles/rebuild_cache.dir
